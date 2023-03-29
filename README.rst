@@ -1,4 +1,4 @@
-enable keypoint edit  , with cocos format
+##enable keypoint edit  , with cocos format
 
 
 ======
