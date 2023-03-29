@@ -1,3 +1,9 @@
+enable keypoint edit  , with cocos format
+
+
+======
+
+
 .. image:: /readme/images/labelimg.png
         :target: https://github.com/heartexlabs/label-studio
 
